@@ -32,7 +32,7 @@
   </a>
   <br>
   <a href="https://x.com/silva_african">
-    <img src="https://img.shields.io/badge/Twitter-@silva_african-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/Twitter-@Obed tech?style=for-the-badge&logo=twitter&logoColor=white" width="200">
   </a>
 </p>
 
