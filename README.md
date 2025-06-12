@@ -23,11 +23,11 @@
     <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="200">
   </a>
   <br>
-  <a href="https://instagram.com/_its.silva">
-    <img src="https://img.shields.io/badge/Instagram-_its.silva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="200">
+  <a href="https://instagram.com/ObedTech">
+    <img src="https://img.shields.io/badge/Instagram-ObedTech?style=for-the-badge&logo=instagram&logoColor=white" width="200">
   </a>
   <br>
-  <a href="https://www.facebook.com/profile.php?id=100055490090211">
+  <a href="https://www.facebook.com/Obed123Tech">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="200">
   </a>
   <br>
@@ -38,10 +38,10 @@
 
 ---
 
-## 💖 Support Silva Tech Inc
+## 💖 Support ᴏʙᴇᴅᴛᴇᴄʜ
 
 <p align="center">
-  <a href="https://github.com/sponsors/SilvaTechB">
+  <a href="https://github.com/sponsors/Obedweb">
     <img src="https://img.shields.io/badge/💜_Sponsor_Our_Work-Purple_Vibes-9D00FF?style=for-the-badge&logo=githubsponsors" alt="Sponsor Badge" width="300">
   </a>
 </p>
@@ -54,11 +54,11 @@
 
 | Statistic | Badge |
 |-----------|-------|
-| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=SilvaSparkMD&label=Profile+Views&color=9D00FF&style=flat-square"> |
-| **Last Update** | <img src="https://img.shields.io/github/last-commit/SilvaTechB/silva-spark-md?color=9D00FF&label=Last+Update&style=flat-square"> |
-| **Repo Size** | <img src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?color=9D00FF&label=Repo+Size&style=flat-square"> |
-| **Stars** | <img src="https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?color=9D00FF&label=Stars&style=flat-square"> |
-| **Forks** | <img src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=9D00FF&label=Forks&style=flat-square"> |
+| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=Obedweb&label=Profile+Views&color=9D00FF&style=flat-square"> |
+| **Last Update** | <img src="https://img.shields.io/github/last-commit/Obedweb/KEENLY-XMD?color=9D00FF&label=Last+Update&style=flat-square"> |
+| **Repo Size** | <img src="https://img.shields.io/github/repo-size/Obedweb/KEENLY-XMD?color=9D00FF&label=Repo+Size&style=flat-square"> |
+| **Stars** | <img src="https://img.shields.io/github/stars/Obedweb/KEENLY-XMD?color=9D00FF&label=Stars&style=flat-square"> |
+| **Forks** | <img src="https://img.shields.io/github/forks/Obedweb/KEENLY-XMD?color=9D00FF&label=Forks&style=flat-square"> |
 
 </div>
 
@@ -71,7 +71,7 @@
 # Click the button below to fork the project
 ```
 <p align="center">
-  <a href="https://github.com/SilvaTechB/silva-spark-md/fork">
+  <a href="https://github.com/Obedweb/KEENLY-XMD/fork">
     <img src="https://img.shields.io/badge/Click_to_Fork-9D00FF?style=for-the-badge&logo=github" alt="Fork Button" width="250">
   </a>
 </p>
@@ -98,7 +98,7 @@
     </tr>
     <tr>
       <td>Heroku</td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Obedweb/KEENLY-XMD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
     </tr>
     <tr>
       <td>Koyeb</td>
@@ -141,8 +141,8 @@
 
 | Role | Badge |
 |------|-------|
-| **Project Owner** | <img src="https://img.shields.io/badge/Silva_TechB-Owner-9D00FF?style=for-the-badge"> |
-| **Main Developer** | <img src="https://img.shields.io/badge/Silva_TechB-Developer-9D00FF?style=for-the-badge"> |
+| **Project Owner** | <img src="https://img.shields.io/badge/Obedweb-Owner-9D00FF?style=for-the-badge"> |
+| **Main Developer** | <img src="https://img.shields.io/badge/Obedweb-Developer-9D00FF?style=for-the-badge"> |
 
 </div>
 
@@ -153,7 +153,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="Visitor Counter">
+  <img src="https://profile-counter.glitch.me/{Obedweb}/count.svg" alt="Visitor Counter">
   <br>
   <sub>✨ Thank you for visiting! ✨</sub>
 </p>
