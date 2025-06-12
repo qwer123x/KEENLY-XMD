@@ -31,7 +31,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // GitHub repo stats
-        const { data } = await axios.get('https://api.github.com/repos/SilvaTechB/silva-md-bot');
+        const { data } = await axios.get('https://api.github.com/repos/Obedweb/KEENLY-XMD');
         const { stargazers_count, forks_count } = data;
         const users = Math.round((stargazers_count + forks_count) * 5); // ×5 stats
 
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
 ┃ 💽 *System*: ${platform} (${arch})
 ┗━━━━━━━━━━━━━━━━━━━━━━✦
 
-✨ *Silva Spark MD* – your feature-packed WhatsApp bot for automation, fun, and more!
+✨ *KEENLY XMD* – your feature-packed WhatsApp bot for automation, fun, and more!
 
 📌 *Main MD Repo*:
 https://github.com/Obedweb/KEENLY-XMD
