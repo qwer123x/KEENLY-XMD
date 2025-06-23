@@ -80,7 +80,7 @@ console.log("Session downloaded ✅")
   //=============================================
   
   async function connectToWA() {
-  console.log("Connecting silva spark to WhatsApp ⏳️...");
+  console.log("Connecting ben-xmd to WhatsApp ⏳️...");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
   var { version } = await fetchLatestBaileysVersion()
   
@@ -100,7 +100,7 @@ console.log("Session downloaded ✅")
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('🧬 Installing KEENLY XMD Plugins')
+  console.log('🧬 Installing BEN XMD Plugins')
   const path = require('path');
   fs.readdirSync("./plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
@@ -110,7 +110,7 @@ console.log("Session downloaded ✅")
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by ᴏʙᴇᴅ ᴛᴇᴄʜ \ud83c\udf8a, Meet ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦  WhatsApp Bot.\n\n *Thanks for using ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💖\n \nhttps://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Obedweb/KEENLY-XMD\n\n> © Powered BY ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦ \ud83d\udda4`;
+  let up = `*Hello there ✦ BEN 𝙓𝙈𝘿 ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is a user friendly whatsapp bot created by BEN \ud83c\udf8a, Meet ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦  WhatsApp Bot.\n\n *Thanks for using ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💖\n \nhttps://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Obedweb/KEENLY-XMD\n\n> © Powered BY ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦ \ud83d\udda4`;
   conn.sendMessage(conn.user.id, { image: { url:`https://files.catbox.moe/9yic1a.jpg` }, caption: up })
   }
   })
@@ -623,7 +623,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 RUNNING ✅");
+  res.send("BEN 𝙓𝙈𝘿 RUNNING ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
