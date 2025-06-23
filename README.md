@@ -71,7 +71,7 @@
 # Click the button below to fork the project
 ```
 <p align="center">
-  <a href="https://github.com/Obedweb/KEENLY-XMD/fork">
+  <a href="https://github.com/qwer123x/BEN-XMD/fork">
     <img src="https://img.shields.io/badge/Click_to_Fork-9D00FF?style=for-the-badge&logo=github" alt="Fork Button" width="250">
   </a>
 </p>
@@ -98,7 +98,7 @@
     </tr>
     <tr>
       <td>Heroku</td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Obedweb/KEENLY-XMD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/qwer123x/KEENLY-XMD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
     </tr>
     <tr>
       <td>Koyeb</td>
