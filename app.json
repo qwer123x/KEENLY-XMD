@@ -1,7 +1,7 @@
 {
-  "name": "𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿",
-  "description": "Javascript WhatsApp bot made by Silva.",
-  "keywords": ["Keenly-xmd"],
+  "name": "BEN-XMD",
+  "description": "Javascript WhatsApp bot made by Ben.",
+  "keywords": ["BEN-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -21,7 +21,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ᴋᴇᴇɴʟʏ xᴍᴅ ɪꜱ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ⚡"
+      "value": "> BEN-XMD ɪꜱ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ⚡"
     },
     "ANTIDELETE_PRIVATE": {
       "description": "when someone deletes a message on dm the bot restores it.",
@@ -31,7 +31,7 @@
     "ANTIDELETE_GROUP": {
       "description": "when someone deletes a message in group the bot restores it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "PREFIX": {
@@ -43,7 +43,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
 
@@ -94,26 +94,26 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 ꜱᴇᴇɴ ʙʏ ᴋᴇᴇɴʏ xᴍᴅ 🚀🔥*"
+      "value": "*🎉👀 ꜱᴇᴇɴ ʙʏ ben xᴍᴅ 🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴏʙᴇᴅ ᴛᴇᴄʜ"
+      "value": "ben"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254740694462"
+      "value": "254727374449"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦"
+      "value": "✦ BEN 𝙓𝙈𝘿 ✦"
 
       }, 
 
@@ -127,13 +127,13 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 ✦*"
+      "value": "*© ✦ BEN 𝙓𝙈𝘿 ✦*"
     },
 
       "DELETE_LINKS": {
@@ -157,13 +157,13 @@
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "OWNER_REACT": {
       "description": "Make it true if you only want react on Owner Massages.",
       "required": false,
-      "value": "true"
+      "value": "false"
       
     }, 
     
