@@ -23,7 +23,7 @@ async function sendMenu(conn, from, mek, sender, text, title, sendAudio = false)
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363416335506023@newsletter',
-          newsletterName: '𝙆𝙚𝙚𝙣𝙡𝙮 𝙭𝙢𝙙 💖🦄',
+          newsletterName: 'BEN 𝙭𝙢𝙙 💖🦄',
           serverMessageId: 143
         }
       }
@@ -53,7 +53,7 @@ cmd({
   try {
     const menuText = `
 ╭━━━━━━━━━━━━━━━━━━━━╮
-  ✨ 𝐊𝐄𝐄𝐍𝐋𝐘 𝐗𝐌𝐃 ✨
+  ✨ BEN 𝐗𝐌𝐃 ✨
 ╰━━━━━━━━━━━━━━━━━━━━╯
 
 ${rainbow.join('')} BOT INFORMATION ${rainbow.reverse().join('')}
