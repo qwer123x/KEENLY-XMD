@@ -10,8 +10,8 @@ cmd({
 }, 
 async (conn, mek, m, { from }) => {
     try {
-        const ownerNumber = config.254727374449; // Fetch owner number from config
-        const ownerName = config.BENSON ;     // Fetch owner name from config
+        const ownerNumber = config.OWNER_NUMBER; // Fetch owner number from config
+        const ownerName = config.OWNER_NAME ;     // Fetch owner name from config
 
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
