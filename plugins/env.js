@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭〔 *【░K░░E░░E░░N░░L░░Y░ ░X░░M░░D░】* 〕⊷
+        let envSettings = `╭〔 *【░B░░E░░N░░ ░X░░M░░D░】* 〕⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -56,7 +56,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: "ᴏʙᴇᴅᴛᴇᴄʜ 🥰",
+                        newsletterName: "BEN 🥰",
                         serverMessageId: 143
                     }
                 }
