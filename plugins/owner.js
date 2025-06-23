@@ -10,8 +10,8 @@ cmd({
 }, 
 async (conn, mek, m, { from }) => {
     try {
-        const ownerNumber = config.OWNER_NUMBER; // Fetch owner number from config
-        const ownerName = config.OWNER_NAME;     // Fetch owner name from config
+        const ownerNumber = config.254727374449; // Fetch owner number from config
+        const ownerName = config.BENSON ;     // Fetch owner name from config
 
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/9yic1a.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *⎈ 𝙺𝙴𝙴𝙽𝙻𝚈 𝚇𝙼𝙳 ⎈* 〕━━┈⊷
+            caption: `╭━━〔 *⎈ BEN 𝚇𝙼𝙳 ⎈* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -38,14 +38,14 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 7.0.1
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ©⎈ 𝙺𝙴𝙴𝙽𝙻𝚈 𝚇𝙼𝙳 ⎈`, // Display the owner's details
+> ©⎈ BEN 𝚇𝙼𝙳 ⎈`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416335506023@newsletter',
-                    newsletterName: '𝙺𝙴𝙴𝙽𝙻𝚈 𝚇𝙼𝙳🥰💖🥰',
+                    newsletterName: 'BEN 𝚇𝙼𝙳🥰💖🥰',
                     serverMessageId: 143
                 }            
             }
