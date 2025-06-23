@@ -43,7 +43,7 @@ cmd({
     const repoData = response.data;
 
     // Prepare repository information message
-    let repoInfo = "📁_*GITHUB REPO INFO BY KEENLY XMD*_📁\n\n";
+    let repoInfo = "📁_*GITHUB REPO INFO BY BEN XMD*_📁\n\n";
     repoInfo += `📌 *Name*: ${repoData.name}\n`;
     repoInfo += `🔗 *URL*: ${repoData.html_url}\n`;
     repoInfo += `📝 *Description*: ${repoData.description || "No description provided"}\n`;
