@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💎 ᴋᴇᴇɴʟʏ xᴍᴅ 💎*`;
+> *@ 💎 BEN xᴍᴅ 💎*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫💎 ᴋᴇᴇɴʟʏ xᴍᴅ 💎 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫💎 BEN xᴍᴅ 💎 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }
