@@ -13,7 +13,7 @@ cmd({
   const { from, q, reply } = context;
 
   if (!q) return reply("❌ What song do you want to download?");
-  reply("🔄 *Keenly xmd Bot fetching your audio...*\n\n*Please wait...* 🎧");
+  reply("🔄 *BEN xmd Bot fetching your audio...*\n\n*Please wait...* 🎧");
 
   try {
     let search = await ytSearch(q);
@@ -40,7 +40,7 @@ cmd({
 
           await client.sendMessage(from, {
             image: { url: songData.thumbnail },
-            caption: `KEENLY THE KEENLY XMD BOT\n╭═════════════════⊷\n║ 🎶 *Title:* ${songData.title}\n║ 🎤 *Artist:* ${songData.artist}\n║ 🔗 *No URL Sharing*\n╰═════════════════⊷\n*Powered by KEENLY XMD BOT*`
+            caption: ` BEN XMD BOT\n╭═════════════════⊷\n║ 🎶 *Title:* ${songData.title}\n║ 🎤 *Artist:* ${songData.artist}\n║ 🔗 *No URL Sharing*\n╰═════════════════⊷\n*Powered by KEENLY XMD BOT*`
           });
 
           reply("📤 *Sending your audio...* 🎼");
@@ -58,7 +58,7 @@ cmd({
             fileName: `${songData.title.replace(/[^a-zA-Z0-9 ]/g, "")}.mp3`
           });
 
-          reply("✅ *Keenly xmd – World-class bot just successfully sent you what you requested! 🎶*");
+          reply("✅ *BEN xmd – World-class bot just successfully sent you what you requested! 🎶*");
           return;
         }
       } catch (e) {
