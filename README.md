@@ -1,13 +1,13 @@
 
-# 🌟 𝙆𝙀𝙀𝙉𝙇𝙔 𝙓𝙈𝘿 🌟
+# 🌟 ben 𝙓𝙈𝘿 🌟
 
 <p align="center">
-  <img src="https://files.catbox.moe/9yic1a.jpg" alt="KEENLY XMD Logo" width="600"/>
+  <img src="https://files.catbox.moe/9yic1a.jpg" alt="BEN Logo" width="600"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Obedweb">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&size=26&center=true&vCenter=true&width=500&lines=✨+Keenly+XMD;⚡+Powering+Your+WhatsApp+Experience;🌟+Star+and+Fork+This+Repo" alt="Header Typing SVG">
+  <a href="https://github.com/qwer123x">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&size=26&center=true&vCenter=true&width=500&lines=✨+Ben+XMD;⚡+Powering+Your+WhatsApp+Experience;🌟+Star+and+Fork+This+Repo" alt="Header Typing SVG">
   </a>
 </p>
 
@@ -19,15 +19,15 @@
 ## 📱 Connect With Me
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y">
+  <a href="(https://whatsapp.com/channel/0029VbBzsyk4dTnEpxjqVv0g)">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="200">
   </a>
   <br>
-  <a href="https://instagram.com/ObedTech">
+  <a href="https://instagram.com/benngugi7">
     <img src="https://img.shields.io/badge/Instagram-ObedTech?style=for-the-badge&logo=instagram&logoColor=white" width="200">
   </a>
   <br>
-  <a href="https://www.facebook.com/Obed123Tech">
+  <a href="https://www.facebook.com/Benson Ngugi">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="200">
   </a>
   <br>
@@ -38,10 +38,10 @@
 
 ---
 
-## 💖 Support ᴏʙᴇᴅᴛᴇᴄʜ
+## 💖 Support BEN
 
 <p align="center">
-  <a href="https://github.com/sponsors/Obedweb">
+  <a href="https://github.com/sponsors/qwer123x">
     <img src="https://img.shields.io/badge/💜_Sponsor_Our_Work-Purple_Vibes-9D00FF?style=for-the-badge&logo=githubsponsors" alt="Sponsor Badge" width="300">
   </a>
 </p>
