@@ -24,7 +24,7 @@ try {
     // Validate download URL
     if(!ytdl?.download?.url) return reply("Error fetching audio URL");
     
-    let ytmsg = `╭━━━〔 *SILVA SPARK MD* 〕━━━┈⊷
+    let ytmsg = `╭━━━〔 *BEN XMD* 〕━━━┈⊷
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ╭━━❐━⪼
 ┇๏ *Title* -  ${yts.title}
@@ -33,7 +33,7 @@ try {
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© SILVA SPARK ♡*`;
+> *© BEN XMD ♡*`;
     
     // Send details with thumbnail
     await conn.sendMessage(from, { 
@@ -53,7 +53,7 @@ try {
         document: { url: ytdl.download.url },
         mimetype: "audio/mpeg",
         fileName: `${yts.title.replace(/[^a-zA-Z0-9]/g, '_')}.mp3`, // Sanitize filename
-        caption: `> *© Powered By 𝙺𝙴𝙴𝙽𝙻𝚈 𝚇𝙼𝙳 ♡*`
+        caption: `> *© Powered By BEN 𝚇𝙼𝙳 ♡*`
     }, { quoted: mek });
     
 } catch (e) {
